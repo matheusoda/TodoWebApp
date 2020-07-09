@@ -1,0 +1,33 @@
+/* *{
+  background-color: #266a97;
+} */
+
+#align{
+  align-items: stretch; 
+}
+
+.icons{
+  margin-right: 0.9rem;
+  cursor: pointer;
+  opacity: 0.9;
+  color: rgb(46, 42, 42);
+}
+
+.icons:hover {
+  opacity: 1;
+}
+
+#btn-logout{
+  margin-bottom: 2rem;
+}
+
+#btn-novo-todo{
+  margin-bottom: 2rem;
+  
+}
+
+#btnFake-link{
+  text-decoration: none;
+  align-self: flex-end;
+}
+
